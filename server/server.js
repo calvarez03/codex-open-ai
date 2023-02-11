@@ -47,5 +47,5 @@ app.post('/', async (req, res) => {
 });
 
 app.listen(5000, () =>
-  console.log('server is running on port http://localhost:5000')
+  console.log('server is running on port https://codex-burz.onrender.com')
 );
